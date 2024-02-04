@@ -1,0 +1,12 @@
+{
+    "API": {
+        "id": "example@mail.com",
+        "password": "p1ssw0rd"
+    },
+    "Path": "F:\testfolder",
+    "StolenFolderName": "test_name",
+    "MaxFileSizeMB": 150,
+    "SplitSize": 50,
+    "TargetedFileExtensions": [".txt", ".pdf", ".docx"],
+    "Mode": "MANUAL"
+}
